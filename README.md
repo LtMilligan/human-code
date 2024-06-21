@@ -1,7 +1,15 @@
-<!-- 8. Contare i posti a tavola di 2 in 2 -->
+<!-- 2. Aprire un pacchetto di figurine -->
 
-<!-- L'esercizio verrà svolto nella serata del 21-06 o nella mattinata del 22-06.
-Esercizio n.11 svolto dopo le ore 13 del giorno 21-06 nella speranza di capitare nel gruppo 11 e quindi di poter avere più tempo per gli impegni personali. -->
+Aprire il pacchetto.
+Girare le figurine in modo da controllare il numero di riferimento.
+Sfogliare l'album.
+IF numero dietro la figurina è visibile nell'album
+    rimuovere il copri adesivo ed attaccare la figurina
+ELSE mettere la figurina da parte formando una pila
+Prendere la vecchia pila dei doppioni
+Prendere la nuova pila dei doppioni
+Controllare il numero di ogni nuovo doppione
+Inserire ogni carta doppione nuova nella vecchia pila dei doppioni seguendo l'ordine numerico.
 
 
 <!-- 11. Gioco del blackjack -->
